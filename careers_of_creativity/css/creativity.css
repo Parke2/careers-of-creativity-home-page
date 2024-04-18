@@ -1,0 +1,88 @@
+h3,h2,h1 {
+	color: gold;
+}
+
+h1 {
+	border-bottom: solid red thick;
+	border-width: 20px;
+	font-size: 80px; 
+p {
+border: 10px solid black; 
+border-radius: 5px;
+}
+
+
+
+footer {
+	font-size: 50px;
+}
+}
+
+
+nav {
+	color: white;
+}
+
+a {
+	color: gold;
+}
+
+body {
+	background-color:dodgerblue;
+} 
+
+li {
+	list-style-type: none 
+}
+
+nav ul li a:hover{
+	background-color: white;
+}
+
+.logo{
+float: right;
+}
+
+.icon-list{
+padding: 0;
+display: block;
+margin-bottom: 10px;
+position: relative;
+bottom: 20px;
+}
+
+.icon-list li img{
+display: block;
+width: 100px;
+height: auto;
+position: relative;
+bottom: 20px;
+}
+ 
+.containter{
+display: flex; 
+}
+
+.left-container{ 
+text-align: left;
+}
+
+.right-container{
+font-size: 45px;
+position: relative;
+bottom: 155px;
+left: 1500px
+}
+
+.other art work{
+float: left;
+}
+
+.topnav{
+ position: relative;
+  left: 800px;
+bottom: 125px;
+}
+
+
+
